@@ -1,6 +1,6 @@
 # Little_copy_file_tool
 This is a little tool written by python, it's used when you want to copy many files from multiple folders.
-#Copy Folders.exe can run in the Windows.
+**Copy Folders.exe** can run in the Windows.
 
 First, choose the source folders and destination folders, click the "+".
 The source and the destination will be match by index.
