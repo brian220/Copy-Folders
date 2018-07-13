@@ -4,7 +4,7 @@ GUI.exe can run in the Windows.
 
 
 
-![alt text](https://github.com/brian220/Little_copy_file_tool/blob/master/UI.PNG)
+![alt text] (https://github.com/brian220/Little_copy_file_tool/blob/master/UI_intro1.png)
 
 
 
