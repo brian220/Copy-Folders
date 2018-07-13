@@ -8,7 +8,7 @@ The source and the destination will be match by index.
 <img src = "https://github.com/brian220/Little_copy_file_tool/blob/master/Intro1.png" width = "650" height = "400"/>
 
 
-Then click comfirm copy, The files in the source folder will be moved to the destination folder with the same index.
+Then click comfirm copy, the files in the source folder will be moved to the destination folder with the same index.
 <img src = "https://github.com/brian220/Little_copy_file_tool/blob/master/Intro2.png" width = "650" height = "400"/>
 
 
