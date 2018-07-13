@@ -5,11 +5,15 @@ This is a little tool written by python, it's used when you want to copy many fi
 First, choose the source folders and destination folders, click the "+".
 The source and the destination will be match by index.
 
-<img src = "https://github.com/brian220/Little_copy_file_tool/blob/master/Intro1.png" width="400" height="200"/>
+<img src = "https://github.com/brian220/Little_copy_file_tool/blob/master/Intro1.png" width = "650" height = "400"/>
+
+
 Then click comfirm copy, The files in the source folder will be moved to the destination folder with the same index.
-![alt text](https://github.com/brian220/Little_copy_file_tool/blob/master/Intro2.png)
+<img src = "https://github.com/brian220/Little_copy_file_tool/blob/master/Intro2.png" width = "650" height = "400"/>
+
+
 If you add the wrong folder, you can use "-" button to delete it.
-![alt text](https://github.com/brian220/Little_copy_file_tool/blob/master/Intro3.png)
+<img src = "https://github.com/brian220/Little_copy_file_tool/blob/master/Intro3.png" width = "650" height = "400"/>
 
 
 
